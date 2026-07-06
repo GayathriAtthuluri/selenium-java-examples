@@ -1,0 +1,24 @@
+# Eclipse generated files
+bin/
+.settings/
+.classpath
+.project
+
+# Java compiled files
+*.class
+
+# Log files
+*.log
+
+# Maven build folder
+target/
+
+# IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
