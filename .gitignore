@@ -1,10 +1,27 @@
-# Eclipse generated files
+# =========================
 # Eclipse
+# =========================
 bin/
 .settings/
+.classpath
 
-# Build
+# =========================
+# Build Output
+# =========================
 target/
 
-# Generated files
+# =========================
+# Generated Files
+# =========================
 Screenshots/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
